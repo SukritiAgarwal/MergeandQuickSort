@@ -1,6 +1,4 @@
 //Assignment 1 - Merge Sort in C
-//Sukriti Agarwal
-
 #include <stdio.h>
 
 void msort(int *a, int n); // merge sort array a with n elements in place in C (from assignment)
